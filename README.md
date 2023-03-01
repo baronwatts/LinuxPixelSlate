@@ -1,5 +1,5 @@
 # LinuxPixelSlate-
-Installing linux on a Pixel Slate Tablet
+Installing linux OS on a Pixel Slate Tablet
 
 ##### https://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/
 ##### https://tylervoll.herokuapp.com/ubuntu-linux-on-a-google-pixel-slate/
